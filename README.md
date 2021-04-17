@@ -1,4 +1,4 @@
-# Parctice: Mathematics for Machine Learning
+# Machine Learning
 
 This repository contains Machine Learning Topic
 
